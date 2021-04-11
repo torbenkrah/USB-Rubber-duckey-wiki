@@ -68,4 +68,4 @@
 * [Payload - Data-Exfiltration / Backdoor](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---Data-Exfiltration---Backdoor)
 * [Payload - Stealthy-Rapid Meterpreter shell](https://github.com/547y4m/Payloads-for-USB-Rubber-Ducky) 
 * [Payload - Firefox Passwords Stealer](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---Firefox-password-stealer)
-* UPDATED 2021 ->1 [Payload - Chrome Passwords to Gmail](https://github.com/nejcpirecnik/Chrome-Artemis)
+* UPDATED 2021 -> [Payload - Chrome Passwords to Gmail](https://github.com/nejcpirecnik/Chrome-Artemis)
