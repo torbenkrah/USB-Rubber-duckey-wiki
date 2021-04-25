@@ -62,7 +62,7 @@
 * [Payload - Windows 10 : Wifi, Chrome Dump & email results](https://github.com/cubidalsphere/Rubber-Ducky)
 * [Payload - Windows 7 : Logoff Prank](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload-:-Log-Off-Prank-(Windows-7))
 * [Payload - Netcat Reverse Shell](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload-Netcat-Reverse-Shell)
-* [[Payload - Fake Update screen:]]
+* [[Payload - Fake Update screen]]
 * [Payload - Rickroll](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---rickroll)
 * [Payload - Fast Meterpreter](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload--Fast-Meterpreter)
 * [Payload - Data-Exfiltration / Backdoor](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---Data-Exfiltration---Backdoor)
