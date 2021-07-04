@@ -71,4 +71,4 @@
 * UPDATED 2021 -> [Payload - Chrome Passwords to Gmail](https://github.com/nejcpirecnik/Chrome-Artemis)
 * [Payload -Windows Password Grabber](https://github.com/makozort/rubberduckywindowspasswordgrabber)
 * [Payload - Windows: CVE 2021 1675 PrintNightmare Administrative Escalation & Payload Executor
-](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Windows:-CVE-2021-1675-PrintNightmare-Administrative-Escalation-&-Payload-Executor)
+](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Windows:-CVE-2021-1675---PrintNightmare----Administrative-Escalation)
