@@ -69,6 +69,7 @@
 * [Payload - Stealthy-Rapid Meterpreter shell](https://github.com/547y4m/Payloads-for-USB-Rubber-Ducky) 
 * [Payload - Firefox Passwords Stealer](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---Firefox-password-stealer)
 * UPDATED 2021 -> [Payload - Chrome Passwords to Gmail](https://github.com/nejcpirecnik/Chrome-Artemis)
-* [Payload -Windows Password Grabber](https://github.com/makozort/rubberduckywindowspasswordgrabber)
+* [Payload - Windows Password Grabber](https://github.com/makozort/rubberduckywindowspasswordgrabber)
+* [Payload - Netcat quick windows reverse shell](https://github.com/makozort/Quick-Reverse-Powershell-Rubber-Ducky)
 * [Payload - Windows: CVE 2021 1675 PrintNightmare Administrative Escalation & Payload Executor
 ](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Windows:-CVE-2021-1675---PrintNightmare----Administrative-Escalation)
