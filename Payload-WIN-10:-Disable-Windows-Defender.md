@@ -1,6 +1,6 @@
 ## **This script manually disable Windows Defender.**
 ***
-DELAY 500
+DELAY 1000
 <br>
 REM Open Windows Defender settings
 <br>
@@ -10,7 +10,7 @@ DELAY 1000
 <br>
 STRING Windows Defender Settings
 <br>
-DELAY 100
+DELAY 1000
 <br>
 ENTER
 <br>
