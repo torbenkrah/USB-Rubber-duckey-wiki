@@ -74,3 +74,4 @@
 * [Payload - Netcat quick windows reverse shell](https://github.com/makozort/Quick-Reverse-Powershell-Rubber-Ducky)
 * [Payload - Windows: CVE 2021 1675 PrintNightmare Administrative Escalation & Payload Executor
 ](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Windows:-CVE-2021-1675---PrintNightmare----Administrative-Escalation)
+* UPDATED TO 2021 ---> [Payload - Wifi credentials stealer](https://github.com/norepository/wifi-grabber-rubberducky)
