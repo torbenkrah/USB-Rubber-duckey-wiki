@@ -6,12 +6,12 @@
     GUI SPACE
     STRING terminal
     DELAY 500
-    ENTER
+    RETURN
     DELAY 4000
     STRING osascript -e 'set volume 7'
     DELAY 500
-    ENTER
+    RETURN
     DELAY 500
     STRING open https://www.youtube.com/watch?v=dQw4w9WgXcQ
     DELAY 500
-    ENTER
+    RETURN
