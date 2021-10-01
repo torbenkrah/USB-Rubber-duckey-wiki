@@ -1,7 +1,8 @@
 * [Payload - Wifi Password Grabber](https://github.com/axel05869/Wifi-Grab)
 * [Payload - Netcat ReverseShell  2021](https://github.com/BigLor96/Netcat-Revershell-NEW)
 * [Payload - WIN10 Disable Windows Defender](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---WIN10-Disable-Windows-Defender)
-* [Payload - Chrome password stealer](https://github.com/Guereak/USBDuckyScripts/wiki/Chrome-password-stealer)
+* [Payload - Chrome password stealer](https://github.com/Guereak/USBDuckyScripts/wiki/Chrome-password-stealer) (2021)
+* [Payload - Discord token grabber](https://github.com/Guereak/USBDuckyScripts/wiki/Discord-token-grabber) (2021)
 * [[Payload - Non-Malicious Auto Defacer]]
 * [[Payload - Open Webpage, Any Platform]]
 * [[Payload - Lock Your Computer Message]]
