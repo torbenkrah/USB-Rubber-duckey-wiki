@@ -6,8 +6,6 @@
 * [[Payload - Ducky Phisher]]
 * [[Payload - FTP Download / Upload]]
 * [[Payload - Restart Prank]]
-* [[Payload - FTP Download / Upload]]
-* [[Payload - Restart Prank]]
 * [[Payload - Silly Mouse, Windows is for Kids]]
 * [[Payload - Windows Screen rotation hack]]
 * [[Payload - Powershell Wget + Execute]]
